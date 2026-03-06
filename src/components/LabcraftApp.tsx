@@ -271,8 +271,8 @@ export default function LabcraftApp() {
       <footer className={styles.footer}>
         <span style={{ color: '#c8f04a' }}>LABCRAFT</span>
         {' '}·{' '}NotebookLM Prompt Studio{' '}·{' '}MIT License{' '}·{' '}
-        <a href="https://github.com/yourusername/labcraft" target="_blank" rel="noopener noreferrer">
-          GitHub ↗
+        <a href="https://github.com/theChandrayMurmu/labcraft" target="_blank" rel="noopener noreferrer">
+          build for the 💚 of NotebookLM by Chandray Murmu.↗
         </a>
       </footer>
     </div>
