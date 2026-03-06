@@ -1,0 +1,24 @@
+{
+  "name": "labcraft",
+  "version": "1.0.0",
+  "description": "NotebookLM Prompt Studio — generate expert prompts for all 12 features",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  },
+  "license": "MIT"
+}
